@@ -1,6 +1,6 @@
-# 📊 Public Employees Salaries Analysis – Brazil (São Paulo, 2012)
+# 📊 Public Employees Salaries Analysis – Brazil (São Paulo, 2012/2013)
 
-This project is part of our final college assignment focused on **Big Data Analysis**. It explores and visualizes the salary data of public employees in São Paulo, Brazil, from the year 2012, using **Apache Spark** for distributed data processing and **Matplotlib** for data visualization.
+This project is part of our final college assignment focused on **Big Data Analysis**. It explores and visualizes the salary data of public employees in São Paulo, Brazil, from the year 2012 and 2013, using **Apache Spark** for distributed data processing and **Matplotlib** for data visualization.
 
 ## 🔍 Objectives
 - Perform data cleaning and preprocessing at scale using Spark.
